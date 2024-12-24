@@ -1,4 +1,4 @@
-# Sentiment-Analysis-for-Stocks
+# Sentiment Analysis for Stocks
 Technical and sentiment analysis to predict the stock market.
 
 ## Project description
